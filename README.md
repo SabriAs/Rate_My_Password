@@ -12,7 +12,7 @@ The criteria for rating passwords are:
     
 The rating for a password is determined by the positive count of the above password criteria.
 
-Rating number of Criteria Satisfied:
+Rating number of criteria satisfied:
 
     • Best 5
     • Good 4
